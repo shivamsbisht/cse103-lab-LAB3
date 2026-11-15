@@ -53,3 +53,6 @@ python3 main.py
 # CSE103 Lab 3
 My first Git and GitHub project.
 This project demonstrates Git and GitHub collaboration.
+
+## Git Learning
+This section demonstrates Git tracking, staging, and commits.
